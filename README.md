@@ -11,6 +11,6 @@ Hands-On Learning: The project was more than theory; it was about practical appl
 
 Coursera Certification: Coursera, the reputable online learning platform, has officially confirmed my identity and validated my active involvement in this project, ensuring its authenticity.
 
-If you're curious, you can verify my completion of this project by visiting this Coursera verification link.
+If you're curious, you can verify my completion of this project by visiting this Coursera verification link https://www.coursera.org/account/accomplishments/verify/FDL7VNZ5AK32
 
 This project isn't just a badge of achievement; it's a testament to my unwavering commitment to learning and professional growth. I invite you to explore the project and its related files here on GitHub.
