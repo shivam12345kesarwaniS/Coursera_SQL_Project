@@ -14,3 +14,6 @@ Coursera Certification: Coursera, the reputable online learning platform, has of
 If you're curious, you can verify my completion of this project by visiting this Coursera verification link https://www.coursera.org/account/accomplishments/verify/FDL7VNZ5AK32
 
 This project isn't just a badge of achievement; it's a testament to my unwavering commitment to learning and professional growth. I invite you to explore the project and its related files here on GitHub.
+
+![Coursera FDL7VNZ5AK32_page-0001](https://github.com/shivam12345kesarwaniS/Coursera_SQL_Project/assets/138551775/cdde9320-738a-4992-9067-323ec9e1a780)
+
